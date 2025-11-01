@@ -1,0 +1,21 @@
+show_id,type,title,director,cast,country,date_added,release_year,rating,duration,listed_in,description
+s1,Movie,Extraction,Sam Hargrave,Chris Hemsworth,India,"April 24, 2020",2020,R,117 min,Action & Adventure,Tyler Rake is a fearless black market mercenary on a deadly rescue mission.
+s2,TV Show,Money Heist,Álex Pina,Úrsula Corberó,Spain,"December 20, 2017",2017,TV-MA,5 Seasons,Crime TV Shows,An unusual group of robbers attempt to carry out the most perfect heist in Spanish history.
+s3,Movie,Bird Box,Susanne Bier,Sandra Bullock,United States,"December 21, 2018",2018,R,124 min,Thrillers,Five years after an ominous unseen presence drives most of society to suicide.
+s4,Movie,The Irishman,Martin Scorsese,Robert De Niro,United States,"November 27, 2019",2019,R,209 min,Dramas,An aging hitman looks back on his career and the events that defined his life.
+s5,TV Show,Stranger Things,The Duffer Brothers,Millie Bobby Brown,United States,"July 15, 2016",2016,TV-14,4 Seasons,Sci-Fi & Fantasy,A group of young friends witness supernatural forces in their town.
+s6,Movie,Enola Holmes,Harry Bradbeer,Millie Bobby Brown,United Kingdom,"September 23, 2020",2020,PG-13,123 min,Mystery & Crime,"When Enola Holmes discovers her mother missing, she embarks on a quest to find her."
+s7,TV Show,Dark,Baran bo Odar,Louis Hofmann,Germany,"December 1, 2017",2017,TV-MA,3 Seasons,Sci-Fi & Fantasy,A family saga with a supernatural twist set in a German town.
+s8,Movie,The Social Dilemma,Jeff Orlowski,,United States,"September 9, 2020",2020,PG-13,94 min,Documentaries,Explores the dangerous human impact of social networking.
+s9,Movie,To All the Boys I've Loved Before,Susan Johnson,Lana Condor,United States,"August 17, 2018",2018,TV-14,99 min,Romantic Movies,Teen romance and letters that were never meant to be sent.
+s10,TV Show,The Crown,Peter Morgan,Olivia Colman,United Kingdom,"November 4, 2016",2016,TV-MA,6 Seasons,Dramas,A drama about the reign of Queen Elizabeth II.
+s11,Movie,6 Underground,Michael Bay,Ryan Reynolds,United States,"December 13, 2019",2019,R,128 min,Action & Adventure,"After faking his death, a tech billionaire recruits a team to take down notorious criminals."
+s12,Movie,The Kissing Booth,Vince Marcello,Joey King,United States,"May 11, 2018",2018,TV-14,105 min,Romantic Movies,Teen romance between best friends takes a complicated turn.
+s13,TV Show,Lucifer,Tom Kapinos,Tom Ellis,United States,"January 25, 2016",2016,TV-14,6 Seasons,Crime TV Shows,The Devil relocates to Los Angeles and runs a nightclub while helping the LAPD.
+s14,Movie,Army of the Dead,Zack Snyder,Dave Bautista,United States,"May 21, 2021",2021,R,148 min,Action & Adventure,"After a zombie outbreak, a group plans a heist in quarantined Las Vegas."
+s15,TV Show,The Witcher,Lauren Schmidt,Hemsworth Cavill,Poland,"December 20, 2019",2019,TV-MA,3 Seasons,Fantasy TV Shows,A mutated monster hunter struggles to find his place in a world where people are crueler than beasts.
+s16,Movie,RRR,S.S. Rajamouli,Ram Charan,India,"March 25, 2022",2022,PG-13,182 min,Action & Adventure,Two legendary revolutionaries journey away from home before they start fighting for their country.
+s17,Movie,Dangal,Nitesh Tiwari,Aamir Khan,India,"December 23, 2016",2016,PG-13,161 min,Dramas,A father trains his daughters to become world-class wrestlers.
+s18,TV Show,Sacred Games,Vikramaditya Motwane,Nawazuddin Siddiqui,India,"July 6, 2018",2018,TV-MA,2 Seasons,Crime TV Shows,A cop and a gangster become intertwined in a conspiracy threatening Mumbai.
+s19,Movie,Black Mirror: Bandersnatch,David Slade,Fionn Whitehead,United Kingdom,"December 28, 2018",2018,TV-MA,90 min,Sci-Fi & Fantasy,An interactive film where the viewer chooses the story’s direction.
+s20,Movie,The Trial of the Chicago 7,Aaron Sorkin,Eddie Redmayne,United States,"October 16, 2020",2020,R,129 min,Dramas,Story of seven people on trial stemming from protests in 1968.
